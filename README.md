@@ -30,11 +30,11 @@ Grupo de número <b>3</b> formado pelos integrantes mencionados abaixo.
 
 <b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=470750&c=12301
 
-### Entrega 1
+## Entrega 1
 
 <i>Pendente...</i>
 
-### Entrega 2
+## Entrega 2
 
 <i>Pendente...</i>
 
